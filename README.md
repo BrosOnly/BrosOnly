@@ -1,5 +1,5 @@
-- Helo we are Creative Thinkers | Life-Long Tinker-ers | CyberSec Enthusiasts 👋
-- 👀 Interested in learning
+- Hi, Creative Thinking | Life-Long Tinker-er's | CyberSec Enthusiast's 👋
+- 👀 Interested in hacking all things
 - 🌱 I’m currently learning clustering
 
 <!---
